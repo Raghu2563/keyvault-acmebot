@@ -18,6 +18,7 @@
     <PackageReference Include="Microsoft.Extensions.Http" Version="[6.0.*,7.0.0)" />
     <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="4.6.0" />
     <PackageReference Include="WebJobs.Extensions.HttpApi" Version="[2.*,3.0.0)" />
+    <PackageReference Include="KeyVault.Acmebot" Version="4.3.1" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ACMESharpCore\src\ACMESharp\ACMESharp.csproj" />
